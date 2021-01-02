@@ -2,7 +2,7 @@
 Krew.io is a unique third person shooter style game that can be played [here](https://krew.io).
 
 ## What is Krew.io?
-Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall pirate theme, where players compete to sink each other, race for loot, and attempt to be a successful pirate. Included within the [io games](https://iogames.space) category, but vastly different to most .io games. The game is mostly competitive, as players battle each other for #1, but is also somewhat cooperative, as players on the same ship will have to work together to sink enemies.
+Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall pirate theme, where players compete to sink each other, race for loot, and attempt to be a successful pirate. Included within the [io games](https://iogames.space) category, but vastly different to most .io games, it is mostly competitive, as players battle each other for #1, but is also somewhat cooperative, as players on the same ship will have to work together to sink enemies.
 
 ## Gameplay Basics
 
