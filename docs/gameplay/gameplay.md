@@ -2,7 +2,7 @@
 Okay, so you're a person on a boat. What now?
 * Use the WASD keys to move your character to the edges of the ship and make the ship turn left or right.
 * Mouse to aim, click to shoot
-* Upgrade your stats by clicking the stat at the bottom or pressing <code style="background-color: #000; border: 2px solid #000; border-radius: 5px; padding: 5px;">5</code>, <code style="background-color: #000; border: 2px solid #000; border-radius: 5px; padding: 5px;">6</code>, and <code style="background-color: #000; border: 2px solid #000; border-radius: 5px; padding: 5px;">7</code>.
+* Upgrade your stats by clicking the stat at the bottom or pressing `5`, `6`, and `7`.
 
 ## Starting as a Raft 1 
 If you started on a Raft 1, there are several ways you could gain enough gold to upgrade to a Raft and make life a lot easier.
