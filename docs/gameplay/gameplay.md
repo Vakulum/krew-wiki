@@ -25,7 +25,7 @@ You could go near 2 ships which are fighting each other and steal the winner's s
 ### Picking the Ideal Island 
 
 
-Once you have enough $2,400 for a Raft 3, you must now pick an ideal island to upgrade. You'd think the island with 1 raft is better than the island with 10 rafts fighting each other. But no! More conflict is actually **better** for Rafts. Many won't focus on a Raft if they're already fighting a Boat. And the island with the 1 raft could be a Raft or Raft which could easily sink a Raft.
+Once you have enough $2,400 for a Raft 3, you must now pick an ideal island to upgrade. You'd think the island with 1 raft is better than the island with 10 rafts fighting each other. But no! More conflict is actually **better** for Rafts. Many won't focus on a Raft if they're already fighting a Boat. And the island with the 1 raft could be a Raft 2 or Raft 3 which could easily sink a Raft.
 
 ## Trading Ships 
 If you are content with staying away from conflict and trading, you should get a Trader. Traders have low health and low maximum krew, but have thousands of cargo space. A trader 1 is very effective and also not very much. 5 minutes of grind should yield one and (can be acquired easily after. Alternatively, travel in a fleet of other ships who have an alliance with you. Try to have enough Gold) to fill up your cargo space to make the best of trading ships. It would be advisable to go straight for a Trader, as it is relatively cheap but has the most space and health among the trader ships. The Traders' slow speed and low health mean that it is easily sunk by pirates, and its large amounts of cargo makes it an even more valuable target, hence the best sailing route will be one that is safe, profitable and short.
