@@ -11,11 +11,17 @@
     <meta property="og:title" content="Krew.io Wiki">
     <meta property="og:description" content="A guide to playing the online 3D browser game Krew.io">
 
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+        type="text/css" />
+    <style>
+        nav.app-nav li ul {
+            min-width: 100px;
+        }
+    </style>
 </head>
 
 <body>
-    <div id="app"></div>
+    <div id="app">Loading...</div>
     <script>
         window.$docsify = {
             homepage: 'home.md',
@@ -23,9 +29,11 @@
             loadSidebar: true,
             loadNavbar: true,
             loadFooter: true,
-            coverpage: true,
+            coverpage: false,
             repo: 'https://github.com/Krew-io/krew-wiki',
-            executeScript: true
+            executeScript: true,
+            maxLevel: 3,
+            subMaxLevel: 2,
         }
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
@@ -34,8 +42,8 @@
     <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript">
+    </script>
 </body>
 
 </html>
