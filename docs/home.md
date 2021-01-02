@@ -7,7 +7,7 @@ Krew.io is a multiplayer 3D third-person shooter web-based game, with an overall
 ## Gameplay Basics
 
 ### Controls
-* `Mouse` -  Control the cannon. Press or hold the left mouse button, orLMB to fire.
+* `Mouse` -  Control the cannon. Press or hold the left mouse button, or `LMB`, to fire.
 * `ESC` - See your mouse and use it in menus.
 * `Shift` - View user leaderboard.
 * `Enter` - Chat, press again to send a message.
