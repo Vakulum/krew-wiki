@@ -1,3 +1,8 @@
+
+- [Home](/)
+
+--- 
+Gameplay
 * [Gameplay](gameplay/gameplay.md)
     * [Islands](gameplay/islands.md)
         * [Spain](gameplay/islands/spain.md)
@@ -12,6 +17,8 @@
     * [Tips & Tricks](gameplay/tips.md)
     * [Economy](gameplay/economy.md)
     * [Bugs & Glitches](gameplay/bugs.md)
+---
+Ships
 * [Ships](ships/ships.md)
     * Rafts
         * [Wood Plank](ships/rafts/woodplank.md)
@@ -40,6 +47,8 @@
         * [Calm Spirit 2](ships/bigmamas/calmspirit2.md)
         * [Queen Barb's Justice](ships/bigmamas/qbj.md)
         * [Queen Barb's Justice 2](ships/bigmamas/qbj2.md)
+---
+Upgrades
 * [Tools](tools/tools.md)
     * [Cannon](tools/cannon.md)
     * [Fishing Rod](tools/fishingrod.md)
@@ -60,8 +69,11 @@
             * [Drifter](items/cannon/hybrid/drifter.md)
             * [Bruiser](items/cannon/hybrid/bruiser.md)
             * [Demolisher](items/cannon/hybrid/demolisher.md)
+---
+Trading
 * [Cargo](gameplay/economy.md)
     * [Coffee](gameplay/cargo/coffee.md)
     * [Silk](gameplay/cargo/silk.md)
     * [Spice](gameplay/cargo/spice.md)
     * [Rum](gameplay/cargo/rum.md)
+---
