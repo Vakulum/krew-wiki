@@ -9,21 +9,17 @@ If you started on a Raft 1, there are several ways you could gain enough gold to
 
 ### Fishing/Collecting Krabs and Klams 
 
-
 Really, its the best starting strategy. One has no chance of dying and can usually collect 1000 a minute on average.
 
 ### Attack a Raft 
-
 
 You could go around collecting cargo lying around the ocean, it takes longer, but there's no chance of death if you find a peaceful spot. You must be vigilant, as Rafts and others will often look for Rafts to attack.
 
 ### Scavenge 
 
-
 You could go near 2 ships which are fighting each other and steal the winner's spoils. The winner is often pissed off at thieves, so get away as quickly as possible!
 
 ### Picking the Ideal Island 
-
 
 Once you have enough $2,400 for a Raft 3, you must now pick an ideal island to upgrade. You'd think the island with 1 raft is better than the island with 10 rafts fighting each other. But no! More conflict is actually **better** for Rafts. Many won't focus on a Raft if they're already fighting a Boat. And the island with the 1 raft could be a Raft 2 or Raft 3 which could easily sink a Raft.
 
@@ -35,21 +31,17 @@ If you started as a krew member, you will start with 50 damage credit shown in t
 
 ### Breaking Free 
 
-
 Once you get enough [to buy a ship, you can break free from your kaptain, either by abandoning ship or politely asking your kaptain to go to an island.
 
 #### Abandoning Ship 
-
 
 While abandoning ship is much quicker, you only get a wood plank, which can be easily sunk as it has only 25 hp. The more conflict surrounding the area, the more likely your escape is to be successful. If there is no conflict, the krew members of the ship you were just on will turn on you and sink you.
 
 #### Go to Island 
 
-
 Politely asking usually only works if you have been serving for your kaptain for a long time, a form of honorable discharge.
 
 ### Revenge? 
-
 
 If you wanted to, you can track down your old kaptain and sink him, if you have any grudges against him, of course. He always has transparent sails (until he buys a new ship).
 
@@ -65,7 +57,6 @@ Becoming a boat is a mix of patience and impatience. You think a boat would be s
 If possible, save up for a Boat ($16,000)
 
 ### Boat Acquired 
-
 
 After you get a boat, it is recommended to stay away from corners, where destroyers can trap and destroy you. Most of all, don't chase after targets which are far away. There is a certain distance where the defender can shoot back while the attacker cannot. Bring your improved amount of krew to bear, and try to hug the enemy.
 
