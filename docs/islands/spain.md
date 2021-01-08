@@ -3,10 +3,10 @@ Spain lies in the northeast (top right) corner of the map.
 
 # Cargo 
 It sells 
-- [Rum](/cargo/rum.md) for 52 [gold](/gold.md)
-- [Coffee](/cargo/coffee.md) for 65 [gold](/gold.md)
-- [Spice](/cargo/spice.md) for 35 [gold](/gold.md)
-- [Silk](/cargo/silk.md) for 180 [gold](/gold.md)
+* [Rum](/cargo/rum.md) for 52 [gold](/gold.md)
+* [Coffee](/cargo/coffee.md) for 65 [gold](/gold.md)
+* [Spice](/cargo/spice.md) for 35 [gold](/gold.md)
+* [Silk](/cargo/silk.md) for 180 [gold](/gold.md)
 
 # Ships
 
