@@ -73,11 +73,11 @@
             * [Demolisher](/items/cannon/hybrid/demolisher.md)
 ---
 * [Cargo](/cargo.md)
+    * [Rum](/cargo/rum.md)
     * [Coffee](/cargo/coffee.md)
-    * [Coffee](/cargo/coffee.md)
-    * [Coffee](/cargo/coffee.md)
-    * [Coffee](/cargo/coffee.md)
-    * [Coffee](/cargo/coffee.md)
-    * [Coffee](/cargo/coffee.md)
-    * [Bananas](/cargo/coffee.md)
+    * [Spice](/cargo/spice.md)
+    * [Silk](/cargo/silk.md)
+    * [Gems](/cargo/gems.md)
+    * [Sugar](/cargo/sugar.md)
+    * [Bananas](/cargo/bananas.md)
 ---
