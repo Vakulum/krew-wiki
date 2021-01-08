@@ -8,7 +8,7 @@ There are 10 islands:
 - [Cuba](/islands/cuba.md)
 - [Barabados](/islands/barabados.md)
 - [Brazil](/islands/brazil.md)
-- [Taiwin](/islands/taiwan.md)
+- [Taiwan](/islands/taiwan.md)
             
 At each island, you are allowed to:
 * Buy [Ships](/ships.md).
