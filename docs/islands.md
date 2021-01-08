@@ -23,16 +23,16 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
     <tbody>
         <tr>
             <th>Goods</th>
-            <th><a href="/islands/spain.md" title="Spain">Spain</a></th>
-            <th><a href="/islands/phillipines.md" title="Phillipines">Phillipines</a></th>
-            <th><a href="/islands/guinea.md" title="Guinea">Guinea</a></th>
-            <th><a href="/islands/labrador.md" title="Labrador">Labrador</a></th>
-            <th><a href="/islands/jamaica.md" title="Jamaica">Jamaica</a></th>
-            <th><a href="/islands/malaysia.md" title="Malaysia">Malaysia</a></th>
-            <th><a href="/islands/cuba.md" title="Cuba">Cuba</a></th>
-            <th><a href="/islands/barabados.md" title="Barabados">Barabados</a></th>
-            <th><a href="/islands/brazil.md" title="Brazil">Brazil</a></th>
-            <th><a href="/islands/taiwan.md" title="Taiwan">Taiwan</a></th>
+            <th><a href="/islands/spain.md">Spain</a></th>
+            <th><a href="/islands/phillipines.md">Phillipines</a></th>
+            <th><a href="/islands/guinea.md">Guinea</a></th>
+            <th><a href="/islands/labrador.md">Labrador</a></th>
+            <th><a href="/islands/jamaica.md">Jamaica</a></th>
+            <th><a href="/islands/malaysia.md">Malaysia</a></th>
+            <th><a href="/islands/cuba.md">Cuba</a></th>
+            <th><a href="/islands/barabados.md">Barabados</a></th>
+            <th><a href="/islands/brazil.md">Brazil</a></th>
+            <th><a href="/islands/taiwan.md">Taiwan</a></th>
         </tr>
         <tr>
             <td><a href="/cargo/rum.md">Rum</a></td>
