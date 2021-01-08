@@ -96,8 +96,8 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
         <td>250</td>
         <td>300</td>
         <td>400</td>
+        <td>500</td>
         <td style="background:#b50b0b;">600</td>
-        <td>450</td>
     </tr>
     <tr>
         <td><a href="../cargo/sugar.md" title="Sugar">Sugar</a></td>
