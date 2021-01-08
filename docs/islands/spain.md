@@ -12,7 +12,7 @@ It sells
 
 The 2 ships unique to Spain is: 
 
-[Queen Barb's Justice](/ships/qbj.md) and the [Raider](/ships/raider.md)
+[Queen Barb's Justice](/ships/qbj.md) and the [Raider](/ships/raider.md).
 
 It sells the following non-unique boats:
 
@@ -33,7 +33,6 @@ It sells the following non-unique boats:
 
 Expect pirates because it is often a good trade spot.
 
-# Fun-facts
-- Like [Labrador Labrador], it does not sell a cargo item for a price higher than any other island.
+# Fun Facts
+- Like [Labrador](/islands/labrador.md), it does not sell a cargo item for a price higher than any other island.
 - It is the only island that does *not* have a cargo that's for the cheapest price.
-
