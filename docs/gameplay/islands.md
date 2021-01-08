@@ -76,7 +76,7 @@ Note that upon 8 seconds after arriving at an island, the kaptain of a vessel wi
     <tr>
         <td><a href="../cargo/silk.md" title="Silk">Silk</a></td>
         <td style="background:#0f6e33;">100</td> 
-        <td>125</td>
+        <td>200</td>
         <td style="background:#b50b0b;">360</td>
         <td>130</td>
         <td>160</td>
