@@ -32,7 +32,7 @@ If you started as a krew member, start to sink ships
 Once you get enough [to buy a ship, you can break free from your kaptain, either by abandoning ship or politely asking your kaptain to go to an island.
 
 #### Abandoning Ship
-While abandoning ship is much quicker, you only get a wood plank, which can be easily sunk as it has only 25 hp. The more conflict surrounding the area, the more likely your escape is to be successful. If there is no conflict, the krew members of the ship you were just on will turn on you and sink you.
+While abandoning ship is much quicker, you only get a wood plank, which can be easily sunk as it has only 25 HP. The more conflict surrounding the area, the more likely your escape is to be successful. If there is no conflict, the krew members of the ship you were just on will turn on you and sink you.
 
 #### Go to Island
 Politely asking usually only works if you have been serving for your kaptain for a long time, a form of honorable discharge.
@@ -41,29 +41,30 @@ Politely asking usually only works if you have been serving for your kaptain for
 If you wanted to, you can track down your old kaptain and sink him, if you have any grudges against him, of course. He always has transparent sails (until he buys a new ship).
 
 ## Moving On Up
-So you've been a Raft 3, merrily fighting in raft battle-royales that occur around supplies, and maybe you've had a close call or two with an imposing boat or destroyer. When should you become a boat? Then, how should you command a boat?
+So you've been a [Raft 3](/ships/raft3.md), merrily fighting in raft battle-royales that occur around supplies, and maybe you've had a close call or two with an imposing boat or destroyer. When should you become a boat? Then, how should you command a boat?
 
 ### Boat Time
 Becoming a boat is a mix of patience and impatience. You think a boat would be so powerful. Yes, on paper, boats are so much more powerful than rafts. But in practice, this advantage is nullified by
 * Destroyers think boats are yummy targets.
 * Many boat kaptains are terrible, and their krew is even worse, at times not even fighting back against a Raft.
-* Many boats are either a Boat or Boat, meaning they are slower than rank 3 ships.
-If possible, save up for a Boat ($16,000)
+* Many boats are either a [Boat 1](/ships/boat1.md) or [Boat 2](/ships/boat2.md), meaning they are slower than rank 3 ships.
+If possible, save up for a [Boat 3](/ships/boat3.md) ($16,000)
 
 ### Boat Acquired
 After you get a boat, it is recommended to stay away from corners, where destroyers can trap and destroy you. Most of all, don't chase after targets which are far away. There is a certain distance where the defender can shoot back while the attacker cannot. Bring your improved amount of krew to bear, and try to hug the enemy.
 
 ## The Next Level
-After a dozen or so minutes as a Boat, you'll notice that you've gathered up a decent amount of damage credit and maybe a few loyal krewmates who are decent marksmen. It's time to go to the next level. Aim for a Destroyer ($130,000). Destroyer ($50,000) and Destroyer ($80,000) are acceptable, but inevitably, a Destroyer will come along and engage with your inferior destroyer, and there is a very slim chance of victory with an inferior destroyer, even when the Destroyer 3's health is depleted.
+After a dozen or so minutes as a Boat, you'll notice that you've gathered up a decent amount of damage credit and maybe a few loyal krewmates who are decent marksmen. It's time to go to the next level. Aim for a [Destroyer 3](/ships/destroyer3.md) ($130,000). [Destroyer 1](/ships/destroyer1.md) ($50,000) and [Destroyer 2](/ships/destroyer2.md) ($80,000) are acceptable, but inevitably, a [Destroyer 3](/ships/destroyer3.md) will come along and engage with your inferior destroyer, and there is a very slim chance of victory with an inferior destroyer, even when the [Destroyer 3](/ships/destroyer3.md)'s health is depleted.
 
 ### Destroyer Life
-Destroyer life is hard at first. You must get used to the very unwieldy turning of the destroyer, and you'll probably lose a few boats because the destroyer is not very maneuverable. The destroyer is not for chasing; it is for sheer brute force. The maximum amount of krew on a Destroyer is a powerful threat in the game, provided that all of them are at least half-decent at aiming.
+Destroyer life is hard at first. You must get used to the very unwieldy turning of the destroyer, and you'll probably lose a few boats because it is not very maneuverable. The destroyer is not for chasing; it is for sheer brute force. The maximum amount of krew on a [Destroyer 3](/ships/destroyer3.md) is a powerful threat in the game, provided that all of them are at least half-decent at aiming.
 
 ## Baby Fancies
-This is probably the best choice if you are solo pirating. A Baby can handle a lot of damage and many others miss shots on it due to its sleek body shape. It has a good damage output (3 krew slots) for firing and has been known to create several glitches, often incorrectly referred to as "hacks". It also has a sail that allows it to go quite fast (5.9 units) and 300 health, or in the case of the Baby Fancy 2, 500 health. The cargo is either 500 or 600, which allows a little trading to be done on the side. The best trade route for a fancy would be Jamaica-Guinea, where one would attack traders and rafts along the way.
+This is probably the best choice if you are solo pirating. A [Baby Fancy](/ships/bf.md) can handle a lot of damage and many others miss shots on it due to its sleek body shape. It has a good damage output (3 krew slots) for firing and has a sail that allows it to go quite fast (5.9 units) and 300 health, or in the case of the Baby Fancy 2, 500 health. The cargo is either 700 or 900, which allows a little trading to be done on the side. The best trade route for a fancy would be Jamaica - Guinea, where one could attack traders and rafts along the way.
 
 ## Big Mamas
-Big mamas are larger and cost more than destroyers. They are fast, with moderate to larger health (1800-4000). The largest ship is the Queen Barb's Justice 2 (350,000). It is recommended that you have a moderate to large size of krew (10-25) when buying ships of these kinds. They have been known to fall to the Baby Fancy and Baby Fancy 2 due to their ship being so insanely large and easy to hit.
+Big mamas are larger and cost more than destroyers. They are fast, with moderate to larger health (1800-4000). The largest ship is the [Queen Barb's Justice 2](/ships/qbj2.md) ($350,000). It is recommended that you have a moderate to large size of krew (10-25) when buying ships of these kinds. They have been known to fall to the [Baby Fancy](/ships/bf.md) and [Baby Fancy 2](/ships/bf2.md) due to their ship being so insanely large and easy to hit.
 
 ## A Word of Warning
-Be careful; if your ship sinks, you will lose your gold and you have to respawn. It's more desirable to retire when at a peaceful island, so your krew can continue your legacy under a new kaptain.
+Be careful; if your ship sinks, you will lose your gold and most, if not all, of your progress.
+It's more desirable to retire when at a peaceful island, so your krew can continue your legacy under a new kaptain.

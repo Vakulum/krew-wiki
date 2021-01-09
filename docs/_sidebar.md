@@ -37,8 +37,8 @@
         * [Trader 2](/ships/trader2.md)
         * [Trader 3](/ships/trader3.md)
     * Baby Fancies
-        * [Baby Fancy](/ships/babyfancy1.md)
-        * [Baby Fancy 2](/ships/babyfancy2.md)
+        * [Baby Fancy](/ships/bf.md)
+        * [Baby Fancy 2](/ships/bf2.md)
     * Destroyers
         * [Destroyer 1](/ships/destroyer1.md)
         * [Destroyer 2](/ships/destroyer2.md)
