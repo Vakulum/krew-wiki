@@ -2,7 +2,7 @@
 - [Home](/)
 
 --- 
-* [Gameplay](gameplay.md)
+* [Gameplay](/gameplay.md)
 * [Islands](/islands.md)
     * [Spain](/islands/spain.md)
     * [Phillipines](/islands/phillipines.md)
@@ -51,11 +51,11 @@
         * [Queen Barb's Justice](/ships/qbj.md)
         * [Queen Barb's Justice 2](/ships/qbj2.md)
 ---
-* [Tools](/tools/tools.md)
+* [Tools](/tools.md)
     * [Cannon](/tools/cannon.md)
     * [Fishing Rod](/tools/fishingrod.md)
     * [Spyglass](/tools/spyglass.md)
-* [Items](/items/items.md)
+* [Items](/items.md)
     * Stats
         * [Fire Rate](/items/stats/firerate.md)
         * [Distance](/items/stats/distance.md)
