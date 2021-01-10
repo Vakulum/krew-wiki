@@ -3,10 +3,15 @@ Spain lies in the northeast (top right) corner of the map.
 
 # Cargo 
 It sells 
-* [Rum](/cargo/rum.md) for 52 [gold](/gold.md)
-* [Coffee](/cargo/coffee.md) for 65 [gold](/gold.md)
-* [Spice](/cargo/spice.md) for 35 [gold](/gold.md)
-* [Silk](/cargo/silk.md) for 180 [gold](/gold.md)
+* [Rum](/cargo/rum.md) for 200 [gold](/gold.md)
+* [Coffee](/cargo/coffee.md) for 84 [gold](/gold.md)
+* [Spice](/cargo/spice.md) for 50 [gold](/gold.md)
+* [Silk](/cargo/silk.md) for 100 [gold](/gold.md)
+* [Gems](/cargo/gems.md) for 200 [gold](/gold.md)
+* [Sugar](/cargo/sugar.md) for 175 [gold](/gold.md)
+* [Bananas](/cargo/bananas.md) for 70 [gold](/gold.md)
+
+On Spain [Rum](/cargo/rum.md) is most expensive on any island making it a good selling point while you can buy [Spice](/cargo/spice.md) and [Silk](/cargo/silk.md) at the cheapest price. 
 
 # Ships
 
